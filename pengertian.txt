@@ -1,0 +1,9 @@
+/app: Berisi semua rute, komponen, dan logika untuk aplikasi Anda. Di sinilah sebagian besar Anda akan bekerja.
+
+/app/lib: Berisi fungsi yang digunakan dalam aplikasi Anda, seperti fungsi utilitas yang dapat digunakan kembali dan fungsi pengambilan data.
+
+/app/ui: Berisi semua komponen UI untuk aplikasi Anda, seperti kartu, tabel, dan formulir. Untuk menghemat waktu, kami telah menyiapkan gaya komponen ini untuk Anda.
+
+/public: Berisi semua aset statis untuk aplikasi Anda, seperti gambar.
+
+Config Files: Anda juga akan melihat file konfigurasi seperti next.config.jsdi root aplikasi Anda. Sebagian besar file ini dibuat dan dikonfigurasi sebelumnya saat Anda memulai proyek baru menggunakan create-next-app. Anda tidak perlu mengubahnya dalam kursus ini.
