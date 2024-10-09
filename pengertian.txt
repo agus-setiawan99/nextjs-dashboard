@@ -1,3 +1,7 @@
+Struktur folder
+
+Anda akan melihat bahwa proyek tersebut memiliki struktur folder berikut:
+
 /app: Berisi semua rute, komponen, dan logika untuk aplikasi Anda. Di sinilah sebagian besar Anda akan bekerja.
 
 /app/lib: Berisi fungsi yang digunakan dalam aplikasi Anda, seperti fungsi utilitas yang dapat digunakan kembali dan fungsi pengambilan data.
